@@ -46,8 +46,8 @@
 				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 					<address>
 					  <strong>Cửa hàng Sneakerz và thời trang đường phố hàng đầu tại VN.</strong><br>
-					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: 48B Thạch Thị Thanh, Tân Định, Q1, HCM<br>
-					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Điện thoại: 0903 150 443<br>
+					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: ShopHouse 27, Chung 9 view, Phường Phước Long B, Quận 9<br>
+					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Điện thoại: 032 5827 575<br>
 					  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Mở cửa: Thứ 2-7: 10h-21h (CN: 13h-20h)<br>
 					</address>
 				</div>
