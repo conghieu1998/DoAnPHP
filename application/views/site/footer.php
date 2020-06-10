@@ -23,13 +23,13 @@
 				      </div>
 				      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 				        <a title=""><strong>LINK TÌM KIẾM</strong></a>        
-				        <li> <a href="http://localhost/sneakerz/khuyen-mai" title="">Xả kho</a></li>        
-				          <li> <a href="http://localhost/sneakerz/adidas-c10" title="">Giày Adidas</a></li> 
-				          <li> <a href="http://localhost/sneakerz/nike-c11" title="">Giày Nike</a></li>
-				          <li> <a href="http://localhost/sneakerz/new-balance-c12" title="">Giày New Balance</a>
+				        <li> <a href="http://localhost/doanphp/khuyen-mai" title="">Xả kho</a></li>        
+				          <li> <a href="http://localhost/doanphp/adidas-c10" title="">Giày Adidas</a></li> 
+				          <li> <a href="http://localhost/doanphp/nike-c11" title="">Giày Nike</a></li>
+				          <li> <a href="http://localhost/doanphp/new-balance-c12" title="">Giày New Balance</a>
 				          </li> 
-				          <li> <a href="http://localhost/sneakerz/vans-c13" title="">Giày Vans</a></li>
-			        	  <li> <a href="http://localhost/sneakerz/puma-c14" title="">Giày Puma</a></li>    
+				          <li> <a href="http://localhost/doanphp/vans-c13" title="">Giày Vans</a></li>
+			        	  <li> <a href="http://localhost/doanphp/puma-c14" title="">Giày Puma</a></li>    
 				      </div>
 				    </div>
 				</div>
@@ -45,7 +45,7 @@
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 					<address>
-					  <strong>Cửa hàng Sneakerz và thời trang đường phố hàng đầu tại VN.</strong><br>
+					  <strong>Cửa hàng doanphp và thời trang đường phố hàng đầu tại VN.</strong><br>
 					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: ShopHouse 27, Chung 9 view, Phường Phước Long B, Quận 9<br>
 					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Điện thoại: 032 5827 575<br>
 					  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Mở cửa: Thứ 2-7: 10h-21h (CN: 13h-20h)<br>

@@ -3,7 +3,7 @@
 				<a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>upload/logo3.png" alt="" class="img-responsive"></a>
 			</div>
 			<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 clearpadding">
-				<a href="http://localhost/sneakerz/khuyen-mai"><img style="max-height: 110px;width: 100%" src="<?php echo base_url(); ?>upload/bannerhome.jpg" alt="" class="img-responsive"></a>
+				<a href="http://localhost/doanphp/khuyen-mai"><img style="max-height: 110px;width: 100%" src="<?php echo base_url(); ?>upload/bannerhome.jpg" alt="" class="img-responsive"></a>
 			</div>
 		</div>
 		<div class="row">

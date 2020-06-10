@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Cơ sở dữ liệu: `sneakerz`
+-- Cơ sở dữ liệu: `doanphp`
 --
 
 -- --------------------------------------------------------
@@ -178,9 +178,9 @@ CREATE TABLE `slider` (
 --
 
 INSERT INTO `slider` (`id`, `name`, `image_link`, `link`, `sort_order`, `created`) VALUES
-(1, '1', 'banner1.jpg', 'http://localhost/sneakerz/superstar-running-white-p50', 1, '2017-04-25 15:24:43'),
-(4, '2', 'banner2.jpg', 'http://localhost/sneakerz/air-jordan-1-x-off-white-x-retro-high-og-chicago-p54', 2, '2017-04-25 15:36:41'),
-(5, '3', 'banner3.jpg', 'http://localhost/sneakerz/air-force-1-low-gs-triple-white-p52', 3, '2017-04-25 15:37:00');
+(1, '1', 'banner1.jpg', 'http://localhost/doanphp/superstar-running-white-p50', 1, '2017-04-25 15:24:43'),
+(4, '2', 'banner2.jpg', 'http://localhost/doanphp/air-jordan-1-x-off-white-x-retro-high-og-chicago-p54', 2, '2017-04-25 15:36:41'),
+(5, '3', 'banner3.jpg', 'http://localhost/doanphp/air-force-1-low-gs-triple-white-p52', 3, '2017-04-25 15:37:00');
 
 -- --------------------------------------------------------
 
